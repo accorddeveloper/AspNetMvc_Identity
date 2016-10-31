@@ -61,3 +61,6 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+$ cat .gitattributes
+AspNetMvc_Identity/Scripts/* linguist-vendored
